@@ -1,0 +1,2 @@
+https://github.com/KANIELPRO/RESOURCES/raw/main/PROJECTEVOLUTION/arm64-v8a/libPROJECTEVO.so
+https://github.com/KANIELPRO/RESOURCES/raw/main/STANDLEO/arm64-v8a/libSTANDLEO.so
