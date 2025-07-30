@@ -1,0 +1,2 @@
+https://github.com/KANIELPRO/RESOURCES/raw/main/PROJECTEVOLUTION/arm64-v8a/hash.txt
+https://github.com/KANIELPRO/RESOURCES/raw/main/STANDLEO/arm64-v8a/hash.txt
